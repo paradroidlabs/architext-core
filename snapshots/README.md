@@ -48,5 +48,10 @@ Files are renamed to: `{NN}_{kebab-description}.png`
 | 14 | `resolved/14_cli-final-sprint-summary.png` | ✅ Resolved | CLI terminal showing the completed sprint achievements and bounced technical stems. |
 | 15 | `resolved/15_elevenreader-md-encoding-errors.png` | ✅ Resolved | ElevenReader rendering showing encoding bugs for raw emojis/em-dashes in Markdown format. |
 | 16 | `resolved/16_elevenreader-table-pipes-spoken-bug.png` | ✅ Resolved | ElevenReader rendering showing spoken pipe characters and table dashes, destroying TTS quality. |
+| 17 | `resolved/17_cli-overhaul-convert-pdf.png` | ✅ Resolved | CLI terminal detailing the overhauling of `convert_to_pdf.py` for TTS sanitization. |
+| 18 | `resolved/18_elevenreader-session-chronicle-pdf.png` | ✅ Resolved | ElevenReader rendering showing clean, high-fidelity PDF reading of the session chronicle. |
+| 19 | `resolved/19_elevenreader-vespers-table-of-chapters.png` | ✅ Resolved | ElevenReader listing the premium Vespers table of chapters and word counts correctly. |
+| 20 | `resolved/20_cli-scratchpad-github-paradroidlabs.png` | ✅ Resolved | CLI terminal displaying reassurance scratchpad after GitHub swap to paradroidlabs organization. |
+
 
 
