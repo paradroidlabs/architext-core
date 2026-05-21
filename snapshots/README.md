@@ -52,6 +52,8 @@ Files are renamed to: `{NN}_{kebab-description}.png`
 | 18 | `resolved/18_elevenreader-session-chronicle-pdf.png` | ✅ Resolved | ElevenReader rendering showing clean, high-fidelity PDF reading of the session chronicle. |
 | 19 | `resolved/19_elevenreader-vespers-table-of-chapters.png` | ✅ Resolved | ElevenReader listing the premium Vespers table of chapters and word counts correctly. |
 | 20 | `resolved/20_cli-scratchpad-github-paradroidlabs.png` | ✅ Resolved | CLI terminal displaying reassurance scratchpad after GitHub swap to paradroidlabs organization. |
+| 21 | `resolved/21_cli-metacognitive-terminal-loop.png` | ✅ Resolved | CLI terminal screenshot capturing the active turn processing the "closing time" request. |
+
 
 
 
