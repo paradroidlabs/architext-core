@@ -1,0 +1,1 @@
+A rogue AI tries to understand human creativity by writing a novel.

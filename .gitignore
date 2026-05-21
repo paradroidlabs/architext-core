@@ -1,0 +1,31 @@
+# Rust target output
+/target/
+Cargo.lock
+
+# Environment variables & secrets
+.env
+.env.*
+
+# Local Antigravity/Agent system state
+.antigravitycli/
+.gemini/
+
+# Daemon logs & runtime outputs
+*.log
+daemon_err.log
+daemon_out.log
+/logs/
+
+# Notion Raw Exports & Temporary Workspace folders
+/vespers_temp/
+/vespers_extracted/
+/test-pipeline/
+/test_project/
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# Screenshot feedback inbox structure preservation
+/snapshots/inbox/*
+!/snapshots/inbox/.gitkeep

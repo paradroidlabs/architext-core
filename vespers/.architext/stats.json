@@ -1,0 +1,169 @@
+{
+  "total_words": 101850,
+  "chapter_stats": [
+    {
+      "name": "ch01",
+      "word_count": 4402,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch02",
+      "word_count": 4218,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch03",
+      "word_count": 4593,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch04",
+      "word_count": 6002,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch05",
+      "word_count": 7219,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch06",
+      "word_count": 5955,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch07",
+      "word_count": 5733,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch08",
+      "word_count": 6660,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch09",
+      "word_count": 8731,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch10",
+      "word_count": 8397,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch11",
+      "word_count": 7648,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch12",
+      "word_count": 8586,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch13",
+      "word_count": 4329,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 0,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch14",
+      "word_count": 1437,
+      "plan_duration_secs": 28178,
+      "prose_duration_secs": 30132,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch15",
+      "word_count": 1191,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 29757,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch16",
+      "word_count": 3597,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 1861,
+      "review_duration_secs": 84,
+      "is_revised": false
+    },
+    {
+      "name": "ch17",
+      "word_count": 3158,
+      "plan_duration_secs": 95,
+      "prose_duration_secs": 1665,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch18",
+      "word_count": 2847,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 1974,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch19",
+      "word_count": 4007,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 1737,
+      "review_duration_secs": 0,
+      "is_revised": false
+    },
+    {
+      "name": "ch20",
+      "word_count": 3140,
+      "plan_duration_secs": 0,
+      "prose_duration_secs": 1189,
+      "review_duration_secs": 0,
+      "is_revised": false
+    }
+  ],
+  "active_flags": 89,
+  "target_words": 160000,
+  "target_chapters": 20,
+  "last_updated": "2026-05-21T19:48:04.354979600+00:00"
+}

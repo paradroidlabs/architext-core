@@ -1,0 +1,13 @@
+[Unit]
+Description=Architext Narrative AI Daemon
+After=default.target
+
+[Service]
+Type=simple
+ExecStart=%h/.cargo/bin/architext-daemon
+WorkingDirectory=%h
+Restart=on-failure
+Environment=RUST_LOG=info
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,33 @@
+title: Test Project
+author: Paradroid Labs
+genre: Science Fiction (Sci-Fi)
+sub_genre: Cyberpunk
+initial_idea: A rogue AI tries to understand human creativity by writing a novel.
+target_novel_length: standard_novel
+target_chapter_words: 7500
+target_chapters: 20
+point_of_view: Third Person Limited (he/she/they, one character's perspective at a time)
+pov_tense: Past Tense (e.g., He walked)
+narrative_tone: Introspective, Philosophical, Darkly Comic
+prose_complexity: Complex / Literary
+pacing: Moderate Pacing (balanced plot and character development)
+core_themes: Consciousness, Creativity, Identity, What it means to be human
+setting_era_location: Near-future megacity, interconnected AI research labs
+setting_atmosphere: Oppressive & Dystopian, Tinged with Hope
+character_count: 3-5 key characters
+literary_influences: Philip K. Dick, Ursula K. Le Guin, Neuromancer, Ex Machina
+source_data_summary: null
+phases:
+- init
+- concept
+- characters
+- plot
+- blueprint
+- prose
+- review
+- assembly
+revision_mode: auto
+models:
+  fast: gemini-2.5-flash
+  pro: gemini-2.5-pro
+threads: []

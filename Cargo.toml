@@ -1,0 +1,76 @@
+[package]
+name = "architext-core"
+version = "0.1.0"
+edition = "2024"
+description = "Architext: Narrative IDE — A filesystem-native, multi-agent creative writing orchestrator"
+authors = ["Paradroid Labs"]
+default-run = "architext-core"
+
+[dependencies]
+# Async runtime — the heartbeat
+tokio = { version = "1", features = ["full"] }
+
+# Filesystem watcher — native OS events, zero polling
+notify = "8"
+notify-debouncer-mini = "0.6"
+
+# HTTP client for Gemini API — async, TLS-native
+reqwest = { version = "0.12", features = ["json", "rustls-tls"], default-features = false }
+
+# Serialization
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+serde_yaml = "0.9"
+
+# Logging
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["fmt", "env-filter"] }
+
+# Error handling
+anyhow = "1"
+thiserror = "2"
+
+# Async channels for agent I/O
+tokio-stream = "0.1"
+
+# Directory traversal
+walkdir = "2"
+
+# Environment variables (.env support)
+dotenvy = "0.15"
+
+# UUID for agent task IDs
+uuid = { version = "1", features = ["v4"] }
+
+# Chrono for timestamps
+chrono = { version = "0.4", features = ["serde"] }
+
+# Native GUI — immediate-mode, zero-abstraction, GPU-accelerated
+eframe = "0.31"
+egui_commonmark = "0.20"
+egui_extras = { version = "0.31.0", features = ["syntect"] }
+rfd = "0.17.2"
+
+# CLI parsing
+clap = { version = "4", features = ["derive"] }
+
+[[bin]]
+name = "architext-core"
+path = "src/main.rs"
+
+[[bin]]
+name = "run-agent"
+path = "src/bin/run-agent.rs"
+
+[[bin]]
+name = "architext-daemon"
+path = "src/bin/architext-daemon.rs"
+
+[[bin]]
+name = "architext-cli"
+path = "src/bin/architext-cli.rs"
+
+[[bin]]
+name = "gui"
+path = "src/bin/gui.rs"
+
