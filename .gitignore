@@ -10,6 +10,9 @@ Cargo.lock
 .antigravitycli/
 .gemini/
 
+# Architext runtime IPC state (generated at runtime, not source)
+.architext/
+
 # Daemon logs & runtime outputs
 *.log
 daemon_err.log
